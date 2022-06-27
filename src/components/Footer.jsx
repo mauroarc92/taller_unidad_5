@@ -13,7 +13,7 @@ return (
                                     color: 'white',
                                     padding: '0.5rem'
 
-}}>Mauricio Arcila</p>
+}}>Mauricio Arcila Cano</p>
    
 </nav>
 
